@@ -1,2 +1,2 @@
 # Circle-dance
-Html CSS animation with Circles
+HTML CSS animation with Circles
